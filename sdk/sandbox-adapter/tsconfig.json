@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "es2022",
+    "moduleResolution": "bundler",
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+    "strict": true,
+    "verbatimModuleSyntax": true,
+    "isolatedModules": false,
+    "noUncheckedSideEffectImports": true,
+    "moduleDetection": "force",
+    "types": ["node", "vitest/globals"],
+    "skipLibCheck": false,
+    "noEmit": true,
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": ["src", "tests"],
+  "exclude": ["node_modules", "dist"]
+}
