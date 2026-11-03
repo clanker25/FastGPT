@@ -1,0 +1,16 @@
+{
+  "title": "Version History",
+  "description": "FastGPT version history",
+  "pages": [
+    "version-timeline",
+    "upgrade-instruction",
+    "4-18",
+    "4-17",
+    "4-16",
+    "4-15",
+    "4-14",
+    "4-13",
+    "4-12",
+    "outdated"
+  ]
+}

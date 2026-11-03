@@ -1,0 +1,9 @@
+{
+  "title": "对话 Agent V2",
+  "root": true,
+  "pages": [
+    "settings",
+    "debug",
+    "vm"
+  ]
+}

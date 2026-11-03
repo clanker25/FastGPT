@@ -1,0 +1,8 @@
+{
+  "root": false,
+  "title": "FAQ",
+  "description": "FastGPT 常见问题",
+  "pages": [
+    "chat"
+  ]
+}
